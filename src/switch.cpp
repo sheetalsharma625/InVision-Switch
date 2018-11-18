@@ -4,9 +4,9 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPClient.h>
 
-const char *ssid = "JAGPREET";
-const char *password = "8373905943";
-const char *centralServer = "192.168.1.12";
+const char *ssid = "InVision";
+const char *password = "invisi0n";
+const char *centralServer = "192.168.4.1";
 const String deviceId = "00001";
 bool updateRequired = false;
 
